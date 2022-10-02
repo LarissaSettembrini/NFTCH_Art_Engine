@@ -1,7 +1,7 @@
 {
-  "name": "hashlips_art_engine",
-  "version": "1.1.1",
-  "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+  "name": "nftch_art_engine",
+  "version": "0.0.1",
+  "description": "NFT Connect Hub art generation tool.",
   "main": "index.js",
   "bin": "index.js",
   "pkg": {
@@ -21,7 +21,7 @@
     "preview_gif": "node utils/preview_gif.js",
     "generate_metadata": "node utils/generate_metadata.js"
   },
-  "author": "Daniel Eugene Botha (HashLips)",
+  "author": "NFT Connect Hub",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0",
